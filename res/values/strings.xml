@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImageMatching</string>
+    <string name="hello_world">Get Top matching Images</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_request_1">Take Picture</string>
+    <string name="user_request_2">Match Images</string>
+    <string name="title_activity_match_image">MatchImage</string>
+    <string name="processing">Processing</string>
+    <string name="Radio_button1">Similar</string>
+    <string name="Radio_button2">Exact</string>
+    
+
+</resources>
